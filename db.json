@@ -1,19 +1,23 @@
 {
-  "DialogTitle": "User1",
-  "UserName": "Bot Maksim",
-  "Path": null,
-  "Messages": [
+  "dialog": [
     {
-      "Time": "15:67",
-      "Text": "Hello there,",
-      "IsMine": false,
-      "NickName": "User1"
-    },
-    {
-      "Time": "15:67",
-      "Text": "\u0437\u0434\u0430\u0440\u043E\u0432\u0430,\u043A\u0430\u043A \u0442\u0430\u043C \u0432\u043F\u0444 \u043F\u043E\u0436\u0438\u0432\u0430\u0435\u0442\u0437\u0434\u0430\u0440\u043E\u0432\u0430, 12312435346212673267843236748597654352465767312564mjjkgjhgdfigsdufigh;sh;gsuthgluirthlrtirt",
-      "IsMine": false,
-      "NickName": "User1"
+      "DialogTitle": "User1",
+      "UserName": "Bot Maksim",
+      "Path": "https://demotivation.ru/wp-content/uploads/2020/01/Canada_Parks_Lake_Mountains_Forests_Scenery_Rocky_567540_3840x2400-scaled.jpg",
+      "Messages": [
+        {
+          "Time": "15:67",
+          "Text": "Hello there,",
+          "IsMine": false,
+          "NickName": "User1"
+        },
+        {
+          "Time": "15:67",
+          "Text": "\u0437\u0434\u0430\u0440\u043E\u0432\u0430,\u043A\u0430\u043A \u0442\u0430\u043C \u0432\u043F\u0444 \u043F\u043E\u0436\u0438\u0432\u0430\u0435\u0442\u0437\u0434\u0430\u0440\u043E\u0432\u0430, 12312435346212673267843236748597654352465767312564mjjkgjhgdfigsdufigh;sh;gsuthgluirthlrtirt",
+          "IsMine": false,
+          "NickName": "User1"
+        }
+      ]
     }
   ]
 }
