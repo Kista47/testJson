@@ -4,7 +4,7 @@
 "DialogTitle": "User1",
 "UserName": "UserName",
 "LastMessage": "laudantium enim quasi est quidem magnam vol",
-"GetMessages": [
+"messages": [
 {
 "Text": "Message 1 from User1",
 "Time": "18:30",
@@ -16,9 +16,9 @@
 "DialogTitle": "User2",
 "UserName": "UserName",
 "LastMessage": "laudantium enim quasi est quidem magnam vol",
-"GetMessages": [
+"messages": [
 {
-"Text": "Message 1 from User2",
+"Text": "Message 1 frmessagesom User2",
 "Time": "18:30",
 "IsMine": false
 }
@@ -28,7 +28,7 @@
 "DialogTitle": "User3",
 "UserName": "UserName",
 "LastMessage": "laudantium enim quasi est quidem magnam vol",
-"GetMessages": [
+"messages": [
 {
 "Text": "Message 1 from User3",
 "Time": "18:30",
