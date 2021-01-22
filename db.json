@@ -1,40 +1,58 @@
 {
-"dialog": [
-{
-"DialogTitle": "User1",
-"UserName": "UserName",
-"LastMessage": "laudantium enim quasi est quidem magnam vol",
-"messages": [
-{
-"Text": "Message 1 from User1",
-"Time": "18:30",
-"IsMine": false
-}
-]
-},
-{
-"DialogTitle": "User2",
-"UserName": "UserName",
-"LastMessage": "laudantium enim quasi est quidem magnam vol",
-"messages": [
-{
-"Text": "Message 1 frmessagesom User2",
-"Time": "18:30",
-"IsMine": false
-}
-]
-},
-{
-"DialogTitle": "User3",
-"UserName": "UserName",
-"LastMessage": "laudantium enim quasi est quidem magnam vol",
-"messages": [
-{
-"Text": "Message 1 from User3",
-"Time": "18:30",
-"IsMine": false
-}
-]
-}
-]
+  "DialogTitle": "User1",
+  "UserName": "Bot Maksim",
+  "Path": "https://im0-tub-ru.yandex.net/i?id=7b27670c61dc754970e9e71006a9d043&n=13&exp=1",
+  "messages": [
+    {
+      "Time": "15:67",
+      "Text": "Hello there,",
+      "IsMine": false,
+      "NickName": "User1"
+    },
+    {
+      "Time": "15:67",
+      "Text": "\u0437\u0434\u0430\u0440\u043E\u0432\u0430,\u043A\u0430\u043A \u0442\u0430\u043C \u0432\u043F\u0444 \u043F\u043E\u0436\u0438\u0432\u0430\u0435\u0442\u0437\u0434\u0430\u0440\u043E\u0432\u0430, 12312435346212673267843236748597654352465767312564mjjkgjhgdfigsdufigh;sh;gsuthgluirthlrtirt",
+      "IsMine": false,
+      "NickName": "User1"
+    },
+    {
+      "Time": "15:67",
+      "Text": "1234567890123456789012345678901234567890123456789012345678901234567890",
+      "IsMine": true,
+      "NickName": "User1"
+    },
+    {
+      "Time": "15:67",
+      "Text": "\u0437\u0434",
+      "IsMine": true,
+      "NickName": "User1"
+    }
+  ],
+  "SelectedMessage": null,
+  "GetMessages": [
+    {
+      "Time": "15:67",
+      "Text": "Hello there,",
+      "IsMine": false,
+      "NickName": "User1"
+    },
+    {
+      "Time": "15:67",
+      "Text": "\u0437\u0434\u0430\u0440\u043E\u0432\u0430,\u043A\u0430\u043A \u0442\u0430\u043C \u0432\u043F\u0444 \u043F\u043E\u0436\u0438\u0432\u0430\u0435\u0442\u0437\u0434\u0430\u0440\u043E\u0432\u0430, 12312435346212673267843236748597654352465767312564mjjkgjhgdfigsdufigh;sh;gsuthgluirthlrtirt",
+      "IsMine": false,
+      "NickName": "User1"
+    },
+    {
+      "Time": "15:67",
+      "Text": "1234567890123456789012345678901234567890123456789012345678901234567890",
+      "IsMine": true,
+      "NickName": "User1"
+    },
+    {
+      "Time": "15:67",
+      "Text": "\u0437\u0434",
+      "IsMine": true,
+      "NickName": "User1"
+    }
+  ]
 }
